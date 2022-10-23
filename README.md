@@ -1,6 +1,6 @@
 # wifi
 To show all connected wifi password in Window
 
-Download Source file
-Open notepad and save as .bat
-Run it
+1. Download Source file
+2. Open Notepad and save as .bat
+3. Run it
